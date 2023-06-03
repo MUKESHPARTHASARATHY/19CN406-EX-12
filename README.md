@@ -75,4 +75,4 @@ $ns rtmodel-at 4.5 up $n1 $n4
 $ns at 0.1 "$ftp start"
 $ns at 6.0 "finish"
 $ns run
-# OUTPUT:
+
